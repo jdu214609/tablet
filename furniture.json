@@ -1,0 +1,45 @@
+[
+  {
+    "name": "vivo",
+    "price": 399,
+    "imgSrc": "images/download.jpeg"
+  },
+  {
+   
+    "name": "redmi",
+    "price": 359,
+    "imgSrc" : "images/redmi.jpeg"
+  },
+  {
+    
+    "name": "samsung",
+    "price": 899,
+    "imgSrc" : "images/sam.jpeg"
+  },
+  {
+   
+    "name": " nokia",
+    "price": 300,
+    "imgSrc" : "images/nokia.jpeg"
+  },
+  {
+    "name": "ipad pro",
+    "price": 900,
+    "imgSrc" : "images/apple.jpeg"
+  },
+  {
+    "name": "huawei",
+    "price": 499,
+    "imgSrc" : "images/huawei.png"
+  },
+  {
+    "name": "lenovo",
+    "price": 420,
+    "imgSrc" : "images/lenovo.png"
+  },
+  {
+    "name": "microsoft",
+    "price": 799,
+    "imgSrc" : "images/micrisift.jpeg"
+  }
+]
